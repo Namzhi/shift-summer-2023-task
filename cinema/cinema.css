@@ -1,0 +1,46 @@
+body {
+    background-color: PaleTurquoise;
+}
+h1 {
+    color:DeepSkyBlue;
+    text-align: center;
+    background-color: LightCyan;
+}
+h2 {
+    text-align: center;
+    color: DodgerBlue;
+    background-color: LightCyan;
+}
+li {
+    margin-top: 15px;
+}
+img {
+    width: 160px;
+    height: 220px;
+    vertical-align: middle
+}
+#title {
+    font-size: 20px;
+    font-weight: bold;
+    color: blueviolet;
+
+}
+#originalName {
+    font-weight: bold;
+}
+#description {
+    font-weight: bold;
+}
+div {
+    display: inline-block;
+    width: 200px;
+    height:200px;
+    margin-top: 10px;
+    text-align: center;
+}
+#concreteFilm {
+    margin-bottom: 100px;
+}
+#descr {
+    
+}
